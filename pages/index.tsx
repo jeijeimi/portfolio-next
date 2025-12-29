@@ -3,7 +3,7 @@ import Hero from './components/Hero'
 import Projects from './components/Projects'
 import About from './components/About'
 // import Tools from './components/Tools'
- import Carousel from './components/Carousel'
+import Carousel from './components/Carousel'
 // import Reviews from './components/Reviews'
 // import Contact from './components/Contact'
 
