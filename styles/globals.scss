@@ -1,12 +1,12 @@
-@import "./variables.scss";
-@import "./hero.scss";
-@import "./projects.scss";
-@import "./navbar.scss";
-@import "./about.scss";
-@import "./tools.scss";
-@import "./carousel.scss";
-@import "./reviews.scss";
-@import "./contact.scss";
+@use "./variables" as *;
+@use "./hero";
+@use "./projects";
+@use "./navbar";
+@use "./about";
+@use "./tools";
+@use "./carousel";
+@use "./reviews";
+@use "./contact";
 
 :root {
   --background: #ffffff;
