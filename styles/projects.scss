@@ -1,0 +1,16 @@
+.projects {
+  padding: 4rem 2rem;
+  color: aqua;
+    .projects-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1.5rem;
+    }
+    
+    .project-card {
+        padding: 1.5rem;
+        border-radius: 12px;
+        background: #111;
+    }
+}
+
