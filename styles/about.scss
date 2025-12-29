@@ -26,8 +26,10 @@
 
   .about-img {
     margin: 0 auto;
-    max-width: 400px;
-    height: 400px;
+    //height: 90%;
+    width: 90%;
+    object-fit: cover;
+    border-radius: 16px;
   }
 
   .about-text {
