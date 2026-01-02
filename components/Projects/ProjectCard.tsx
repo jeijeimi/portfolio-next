@@ -1,4 +1,4 @@
-import styles from "../../../styles/projectCard.module.scss";
+import styles from "../../styles/projectCard.module.scss";
 import { Project } from "./types"
 
 interface Props {
